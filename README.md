@@ -67,9 +67,6 @@ Full-stack developer working primarily in the MERN stack, with PERN close at han
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:C9A227&height=2&width=100%25" width="100%"/>
 
 <br/>
-
-**Curtain Call**
-
 <div align="center">
 
 <!-- Swap in your real links -->
