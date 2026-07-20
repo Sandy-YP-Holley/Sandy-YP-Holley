@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f1a30,45:b31942,100:e0447a&height=200&section=header&text=S%20A%20N%20D%20Y%20%20%20H%20O%20L%20L%20E%20Y&fontSize=38&fontColor=F3E9DF&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%C2%B7%20MERN%20%2F%20PERN&descAlignY=62&descSize=14&descColor=C9A227" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f1a30,45:b31942,100:e0447a&height=220&section=header&text=Sandy%20Yoga%20Prakasa%20Holley&fontSize=30&fontColor=F3E9DF&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%C2%B7%20MERN%20%2F%20PERN&descAlignY=62&descSize=14&descColor=C9A227" width="100%"/>
 
 <a href="https://github.com/Sandy-YP-Holley">
   <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=20&duration=3500&pause=1200&color=C9A227&center=true&vCenter=true&width=560&lines=Every+release+is+opening+night.;Code%2C+staged+with+care.;Currently+building+in+MERN." alt="Typing SVG" />
@@ -75,7 +75,7 @@ Full-stack developer working primarily in the MERN stack, with PERN close at han
 <img src="https://github-readme-stats.vercel.app/api?username=Sandy-YP-Holley&show_icons=true&hide_border=true&bg_color=0f1a30&title_color=C9A227&icon_color=C9A227&text_color=F3E9DF" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandy-YP-Holley&layout=compact&hide_border=true&bg_color=0f1a30&title_color=C9A227&text_color=F3E9DF" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandy-YP-Holley&hide_border=true&background=0f1a30&stroke=C9A227&ring=C9A227&fire=B31942&currStreakLabel=C9A227&sideLabels=F3E9DF&currStreakNum=F3E9DF&sideNums=F3E9DF&dates=8a8a9a" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Sandy-YP-Holley&hide_border=true&background=0f1a30&stroke=C9A227&ring=C9A227&fire=B31942&currStreakLabel=C9A227&sideLabels=F3E9DF&currStreakNum=F3E9DF&sideNums=F3E9DF&dates=8a8a9a" width="70%"/>
 
 </div>
 
@@ -91,6 +91,7 @@ Full-stack developer working primarily in the MERN stack, with PERN close at han
 
 <!-- Swap in your real links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f1a30?style=flat-square&logo=linkedin&logoColor=C9A227)](https://www.linkedin.com/in/sandyypholley?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f1a30?style=flat-square&logo=vercel&logoColor=C9A227)](https://your-portfolio.dev)
 
 </div>
 
