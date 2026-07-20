@@ -90,8 +90,7 @@ Full-stack developer working primarily in the MERN stack, with PERN close at han
 <div align="center">
 
 <!-- Swap in your real links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f1a30?style=flat-square&logo=linkedin&logoColor=C9A227)](https://linkedin.com/in/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f1a30?style=flat-square&logo=vercel&logoColor=C9A227)](https://your-portfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f1a30?style=flat-square&logo=linkedin&logoColor=C9A227)](https://www.linkedin.com/in/sandyypholley?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 </div>
 
