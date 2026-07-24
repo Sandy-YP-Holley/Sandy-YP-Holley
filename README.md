@@ -1,77 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f1a30,45:b31942,100:e0447a&height=220&section=header&text=Sandy%20Yoga%20Prakasa%20Holley&fontSize=30&fontColor=F3E9DF&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%C2%B7%20MERN%20%2F%20PERN&descAlignY=62&descSize=14&descColor=C9A227" width="100%"/>
+# 👋 Hi, I'm **Sandy Yoga Prakasa Holley**
+
+**Full-Stack Developer | MERN · PERN · TALL Stack Specialist**
 
 <a href="https://github.com/Sandy-YP-Holley">
-  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=20&duration=3500&pause=1200&color=C9A227&center=true&vCenter=true&width=560&lines=Every+release+is+opening+night.;Code%2C+staged+with+care.;Currently+building+in+MERN." alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/GitHub-Sandy--YP--Holley-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:sandy.yoga.prakasa.holley@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:C9A227&height=2&width=100%25" width="100%"/>
+## 🚀 About Me
 
-<br/>
+I'm a passionate full-stack developer who loves building modern, scalable web applications. I specialize in **JavaScript-based ecosystems** and have hands-on experience across multiple popular stacks. I believe in writing clean, maintainable code and delivering robust, user-centric solutions.
 
-**The Performer**
+- 🔭 Currently focused on building full-stack applications with **MERN**, **PERN**, and **TALL** stacks
+- 🧪 Strong advocate for **automated testing** with Cypress and Playwright
+- 🐍 Experienced in **Python** for scripting, backend logic, machine learning, and data processing
+- ⚡ Exploring modern frontend frameworks like **Next.js** for SSR & SSG
+- 🎯 Always learning, always shipping
 
-Full-stack developer working primarily in the MERN stack, with PERN close at hand when a project calls for PostgreSQL. I care about clean architecture and interfaces that feel considered rather than assembled.
+---
 
-<br/>
+## 🛠️ Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:C9A227&height=2&width=100%25" width="100%"/>
+### 🌐 Full-Stack Specializations
 
-<br/>
+| Stack | Technologies |
+|-------|-------------|
+| **MERN** | MongoDB · Express.js · React · Node.js |
+| **PERN** | PostgreSQL · Express.js · React · Node.js |
+| **TALL** | Tailwind CSS · Alpine.js · Laravel · Livewire |
 
-**Instrument**
+### ⚙️ Core Skills
+
+**Frontend**
+```
+React        ████████████████████  Advanced
+Next.js      ████████████████░░░░  Proficient
+Tailwind CSS ████████████████████  Advanced
+Alpine.js    ████████████████░░░░  Proficient
+HTML5/CSS3   ████████████████████  Advanced
+JavaScript   ████████████████████  Advanced
+```
+
+**Backend**
+```
+Node.js      ████████████████████  Advanced
+Express.js   ████████████████████  Advanced
+Laravel      ████████████████░░░░  Proficient
+Python       ████████████████░░░░  Proficient
+```
+
+**Databases**
+```
+MongoDB      ████████████████████  Advanced
+PostgreSQL   ████████████████████  Advanced
+MariaDB      ████████████████░░░░  Proficient
+```
+
+**Testing & Automation**
+```
+Cypress      ████████████████████  Advanced
+Playwright   ████████████████████  Advanced
+```
+
+> 💡 **Note:** I work primarily with **JavaScript** and do not currently use TypeScript in my projects.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-0f1a30?style=flat-square&logo=react&logoColor=C9A227)
-![Node.js](https://img.shields.io/badge/Node.js-0f1a30?style=flat-square&logo=nodedotjs&logoColor=C9A227)
-![Express](https://img.shields.io/badge/Express-0f1a30?style=flat-square&logo=express&logoColor=C9A227)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f1a30?style=flat-square&logo=mongodb&logoColor=C9A227)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f1a30?style=flat-square&logo=postgresql&logoColor=C9A227)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f1a30?style=flat-square&logo=javascript&logoColor=C9A227)
-![Python](https://img.shields.io/badge/Python-0f1a30?style=flat-square&logo=python&logoColor=C9A227)
+<img src="https://github-readme-stats.vercel.app/api?username=Sandy-YP-Holley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandy-YP-Holley&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:C9A227&height=2&width=100%25" width="100%"/>
+## 🏆 What I Bring to the Table
 
-<br/>
+- ✅ **Full-Stack Proficiency** — Comfortable owning features end-to-end, from database design to UI polish
+- ✅ **Testing-First Mindset** — Cypress & Playwright for reliable, automated E2E and integration testing
+- ✅ **Stack Flexibility** — Can adapt between NoSQL (MongoDB) and SQL (PostgreSQL) environments seamlessly
+- ✅ **Modern Frontend** — Next.js expertise for SEO-friendly, performant React applications
+- ✅ **Python Utility** — Scripting, API development, and backend automation when JS isn't the best fit
+- ✅ **Clean Architecture** — Focused on maintainable, and scalable code
 
-**Repertoire**
+---
 
-**[Sandy's Movies](https://github.com/Sandy-YP-Holley/Sandys-Movies)**
-*A full-stack movie discovery app. Browse trending titles and search via the TMDB API, then leave, edit, or delete reviews stored in MongoDB through a custom Express API.*
-![React](https://img.shields.io/badge/React-0f1a30?style=flat-square&logo=react&logoColor=C9A227) ![Node.js](https://img.shields.io/badge/Node.js-0f1a30?style=flat-square&logo=nodedotjs&logoColor=C9A227) ![Express](https://img.shields.io/badge/Express-0f1a30?style=flat-square&logo=express&logoColor=C9A227) ![MongoDB](https://img.shields.io/badge/MongoDB-0f1a30?style=flat-square&logo=mongodb&logoColor=C9A227)
+## 📫 Let's Connect
 
-<br/>
+I'm always open to collaborating on interesting projects, discussing tech, or just having a chat about development.
 
-**[Dragon Slayer](https://github.com/Sandy-YP-Holley/Dragon-Slayer)**
-*A browser-based text RPG built with vanilla HTML, CSS, and JavaScript. Explore a town, purchase weapons, battle monsters, and face down Tyrant the Dragon in the final encounter.*
-![HTML](https://img.shields.io/badge/HTML5-0f1a30?style=flat-square&logo=html5&logoColor=C9A227) ![CSS](https://img.shields.io/badge/CSS3-0f1a30?style=flat-square&logo=css3&logoColor=C9A227) ![JavaScript](https://img.shields.io/badge/JavaScript-0f1a30?style=flat-square&logo=javascript&logoColor=C9A227)
+- 💼 **GitHub:** [@Sandy-YP-Holley](https://github.com/Sandy-YP-Holley)
+- 📧 **Email:** *sandyyogaprakasaholley@gmail.com*
+- 💬 **Open to:** Freelance projects · Full-time opportunities · Open source contributions
 
-<br/>
+---
 
-**[Backpack Detection](https://github.com/Sandy-YP-Holley/Backpack-Detection)**
-*An undergraduate research project at Gunadarma University comparing YOLOv8 and YOLO11 for baggage object detection, with a web interface for evaluating both models side by side on accuracy and inference speed.*
-![Python](https://img.shields.io/badge/Python-0f1a30?style=flat-square&logo=python&logoColor=C9A227) ![YOLO](https://img.shields.io/badge/YOLOv8%20%2F%20YOLO11-0f1a30?style=flat-square&logo=ultralytics&logoColor=C9A227) ![OpenCV](https://img.shields.io/badge/Computer%20Vision-0f1a30?style=flat-square&logo=opencv&logoColor=C9A227)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:C9A227&height=2&width=100%25" width="100%"/>
-
-<br/>
 <div align="center">
 
-<!-- Swap in your real links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f1a30?style=flat-square&logo=linkedin&logoColor=C9A227)](https://www.linkedin.com/in/sandyypholley?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+**Thanks for stopping by! 🚀**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e0447a,55:b31942,100:0f1a30&height=100&section=footer" width="100%"/>
