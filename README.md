@@ -74,17 +74,6 @@ Playwright   ████████████████████  Advan
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sandy-YP-Holley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandy-YP-Holley&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-
-</div>
-
----
-
 ## 🏆 What I Bring to the Table
 
 - ✅ **Full-Stack Proficiency** — Comfortable owning features end-to-end, from database design to UI polish
